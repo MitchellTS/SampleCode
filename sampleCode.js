@@ -1,4 +1,4 @@
-// Methods Intro
+// Methods Fundamentals
 // The object is a restaurant that has various tracked attritubes.
 // checkAvailability was predefined as a sample method that 
 // drew upon specific values within the object to give remaining 
